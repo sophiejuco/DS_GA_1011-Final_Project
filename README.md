@@ -64,3 +64,5 @@
   [scp command again]
   > yes
   ````
+
+  Any questions, issues, or concerns - feel free to email smj490@nyu.edu
