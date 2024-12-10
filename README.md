@@ -65,4 +65,4 @@
   > yes
   ````
 
-  Any questions, issues, or concerns - feel free to email smj490@nyu.edu
+  Any questions - feel free to email smj490@nyu.edu
